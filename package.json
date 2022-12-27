@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "run-pwa": "ng build && http-server -p 8080 -c-1 dist/lenovo-pwademo",
-    "predeploy": "ng build --base-href=/lenovo-pwademo/",
+    "predeploy": "ng build --base-href=.",
     "deploy":"npx gh-pages -d dist/lenovo-pwademo"
   },
   "private": true,
