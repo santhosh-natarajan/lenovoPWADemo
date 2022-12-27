@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1663697542043,
+  "timestamp": 1672163732654,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "./favicon.ico",
         "./index.html",
-        "./main.5601070620a3e3b5.js",
+        "./main.c46d311ed55805b2.js",
         "./manifest.webmanifest",
         "./polyfills.85ecd9292fe451e6.js",
         "./runtime.5b85bfbbf6ce5bae.js",
@@ -36,11 +36,7 @@
         "./assets/icons/icon-384x384.png",
         "./assets/icons/icon-512x512.png",
         "./assets/icons/icon-72x72.png",
-        "./assets/icons/icon-96x96.png",
-        "./assets/icons/l-logo.jpg",
-        "./assets/img/l-logo.jpg",
-        "./assets/img/logo.png",
-        "./assets/img/qr.png"
+        "./assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -55,14 +51,10 @@
     "./assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "./assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "./assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "./assets/icons/l-logo.jpg": "15e990382ec528e4f1f839d20bd4642d0c37b6d8",
-    "./assets/img/l-logo.jpg": "15e990382ec528e4f1f839d20bd4642d0c37b6d8",
-    "./assets/img/logo.png": "ae73b3c08fba61917c1475ca06d7245392975056",
-    "./assets/img/qr.png": "bdc042ccdc4b3a5d6c88a228f4c9da36736ee9f5",
     "./favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "./index.html": "d6cda6a3fd3de2b3b0e79c16ec87d568106ec34f",
-    "./main.5601070620a3e3b5.js": "aeceef5736a001025f24ab09c4a4904d24ee5c11",
-    "./manifest.webmanifest": "825a723d1283fd2e80785cc9623222d47ba6e308",
+    "./index.html": "903a9752b856f3b2841894d7207b62f49661580c",
+    "./main.c46d311ed55805b2.js": "ee7cfe3ab9b5c9c861b7b72d1ca5a1adb1f1f1ac",
+    "./manifest.webmanifest": "f4aba95a5236300dc92fb376da9e244a30988e2c",
     "./polyfills.85ecd9292fe451e6.js": "a5b927f3b9d88cf5871ec140d6648d8a561d8d62",
     "./runtime.5b85bfbbf6ce5bae.js": "855e7979ecb503ec52305e8d7aafe28d2f8c21c8",
     "./styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
